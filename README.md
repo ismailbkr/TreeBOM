@@ -1,6 +1,6 @@
-#  BOM (Bill of Materials) - Ürün Ağacı Uygulaması
+# 🌳 TreeBOM - Hiyerarşik Ürün Ağacı Yönetim Sistemi
 
-Modern ve kullanıcı dostu web tabanlı Ürün Ağacı yönetim sistemi. Hiyerarşik ürün yapılarını kolayca oluşturun, yönetin ve analiz edin.
+Modern ve kullanıcı dostu web tabanlı Bill of Materials (BOM) ürün ağacı yönetim sistemi. Hiyerarşik ürün yapılarını kolayca oluşturun, yönetin ve analiz edin.
 
 ---
 
