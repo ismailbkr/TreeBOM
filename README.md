@@ -1,4 +1,4 @@
-# 🌳 TreeBOM - Hiyerarşik Ürün Ağacı Yönetim Sistemi
+#  TreeBOM - Hiyerarşik Ürün Ağacı Yönetim Sistemi
 
 Modern ve kullanıcı dostu web tabanlı Bill of Materials (BOM) ürün ağacı yönetim sistemi. Hiyerarşik ürün yapılarını kolayca oluşturun, yönetin ve analiz edin.
 
