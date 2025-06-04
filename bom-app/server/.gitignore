@@ -1,0 +1,60 @@
+# Bağımlılıklar
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Çevre değişkenleri
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Log dosyaları
+logs
+*.log
+
+# Geçici dosyalar
+.tmp/
+temp/
+
+# İşletim sistemi dosyaları
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build ve dist klasörleri
+dist/
+build/
+
+# MongoDB verilerini saklamayın (eğer local dump varsa)
+dump/
+
+# Coverage raporları
+coverage/
+*.lcov
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache 
